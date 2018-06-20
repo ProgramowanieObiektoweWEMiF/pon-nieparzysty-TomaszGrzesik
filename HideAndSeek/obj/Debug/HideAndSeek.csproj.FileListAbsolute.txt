@@ -1,0 +1,20 @@
+C:\Users\Me\Desktop\HideAndSeek\HideAndSeek\bin\Debug\HideAndSeek.exe.config
+C:\Users\Me\Desktop\HideAndSeek\HideAndSeek\bin\Debug\HideAndSeek.exe
+C:\Users\Me\Desktop\HideAndSeek\HideAndSeek\bin\Debug\HideAndSeek.pdb
+C:\Users\Me\Desktop\HideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.csprojResolveAssemblyReference.cache
+C:\Users\Me\Desktop\HideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.Properties.Resources.resources
+C:\Users\Me\Desktop\HideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.csproj.GenerateResource.cache
+C:\Users\Me\Desktop\HideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.csproj.CoreCompileInputs.cache
+C:\Users\Me\Desktop\HideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.exe
+C:\Users\Me\Desktop\HideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.pdb
+C:\Users\Me\Desktop\HideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.Form1.resources
+C:\Users\John\Desktop\Magazynex - Królowie Dedlajnu\HideAndSeek\bin\Debug\HideAndSeek.exe.config
+C:\Users\John\Desktop\Magazynex - Królowie Dedlajnu\HideAndSeek\bin\Debug\HideAndSeek.exe
+C:\Users\John\Desktop\Magazynex - Królowie Dedlajnu\HideAndSeek\bin\Debug\HideAndSeek.pdb
+C:\Users\John\Desktop\Magazynex - Królowie Dedlajnu\HideAndSeek\obj\Debug\HideAndSeek.csprojAssemblyReference.cache
+C:\Users\John\Desktop\Magazynex - Królowie Dedlajnu\HideAndSeek\obj\Debug\HideAndSeek.Form1.resources
+C:\Users\John\Desktop\Magazynex - Królowie Dedlajnu\HideAndSeek\obj\Debug\HideAndSeek.Properties.Resources.resources
+C:\Users\John\Desktop\Magazynex - Królowie Dedlajnu\HideAndSeek\obj\Debug\HideAndSeek.csproj.GenerateResource.cache
+C:\Users\John\Desktop\Magazynex - Królowie Dedlajnu\HideAndSeek\obj\Debug\HideAndSeek.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\Magazynex - Królowie Dedlajnu\HideAndSeek\obj\Debug\HideAndSeek.exe
+C:\Users\John\Desktop\Magazynex - Królowie Dedlajnu\HideAndSeek\obj\Debug\HideAndSeek.pdb
